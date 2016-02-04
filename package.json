@@ -1,0 +1,14 @@
+{
+  "name": "webs5-week1",
+  "version": "1.0.0",
+  "description": "webs5 huiswerk week1",
+  "main": "app.js",
+  "keywords": [
+    "webs5",
+    "week1",
+    "huiswerk",
+    "calculator"
+  ],
+  "author": "Rik van den Heuvel",
+  "license": "MIT"
+}
