@@ -1,14 +1,20 @@
 {
-  "name": "webs5-week1",
+  "name": "webs5_cloudservices",
   "version": "1.0.0",
-  "description": "webs5 huiswerk week1",
+  "description": "\"# webs5_cloudservices\"",
   "main": "app.js",
-  "keywords": [
-    "webs5",
-    "week1",
-    "huiswerk",
-    "calculator"
-  ],
-  "author": "Rik van den Heuvel",
-  "license": "MIT"
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikkert-jan/webs5_cloudservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikkert-jan/webs5_cloudservices/issues"
+  },
+  "homepage": "https://github.com/rikkert-jan/webs5_cloudservices#readme"
 }
